@@ -157,10 +157,7 @@ width: 30%;
 
 
 @media only screen and (max-width: 767px) {
-  .hero-container {
-    padding-top: 440px !important;
-  }
-    
+
   .card{
     width: 70%;
 }
@@ -252,7 +249,7 @@ width: 30%;
   z-index: 997;
   transition: all 0.5s;
   box-shadow: 0 4px 10px -3px hsla(0, 0%, 75%, 0.5);
-  background: #ffffffcf;    
+  background: #ffffff;    
 }
 
 #header .logo h1 {
@@ -458,7 +455,7 @@ width: 30%;
   bottom: 15px;
   left: 15px;
   padding: 10px 0;
-  background: rgba( 234, 234, 234, 0.65 );
+  background: rgba( 234, 234, 234);
  z-index: -1;    
     
 }
@@ -1552,7 +1549,7 @@ section {
   float: left;
   width: 44px;
   height: 44px;
-  background: #eaf6e9;
+  background: #efeaea;
   display: flex;
   justify-content: center;
   align-items: center;
